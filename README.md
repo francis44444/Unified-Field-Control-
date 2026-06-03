@@ -9,10 +9,3 @@ Welcome to the central command hub for the **Unified-Field-Control** repository.
 ## 🌌 The Three Core Projects
 
 This architecture maps reality sequentially from subatomic interactions up to macro-space-time constraints, preventing data loss or "catastrophic forgetting" during AI training loops.
-
-{
-    "current_project": "Unified-Field-Control",
-    "target_variable": "emf_frequency",
-    "emf_frequency": 100.0,
-    "status": "initialized"
-}
